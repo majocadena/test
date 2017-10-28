@@ -1,0 +1,19 @@
+body{
+	background-color: #59707F;
+	color: #4CB7FF;
+}
+table{
+	width: 100%;
+	background-color: #5D7F7A;
+	color: #6DFFE8;
+}
+thead{
+	background-color: orange;
+}
+tr:nth-child(odd){
+	background-color: black;
+}
+tr:nth-child(even){
+	background-color: pink;
+}
+tr
